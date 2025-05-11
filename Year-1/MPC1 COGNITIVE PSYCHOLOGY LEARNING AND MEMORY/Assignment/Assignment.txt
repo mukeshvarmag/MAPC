@@ -1,0 +1,8 @@
+Assignment MPC-001
+Section C
+
+Q16: Benefits of multilingualism
+Ans: Multilingualism offers significant cognitive benefits including enhanced executive functions, improved working memory, better cognitive flexibility, and superior problem-solving skills. Research shows multilinguals outperform monolinguals in interference suppression tasks and demonstrate greater metalinguistic awareness. Multilingualism strengthens cognitive reserve, potentially delaying cognitive decline and reducing dementia risk by approximately five years. Additionally, multilingual individuals exhibit more rational decision-making, enhanced creativity, and better observational skills. These advantages extend beyond language to academic achievement, with multilingual children often outperforming monolingual peers in core subjects and standardized tests.
+
+Q17: Phonemes and morphemes
+Ans: Phonemes are the smallest distinguishable sound units in language (like /t/, /p/, /m/ in English). The English language contains about 45 phonemes out of approximately 100 possible human speech sounds. Morphemes are the smallest meaningful units in language-either whole words or meaningful word parts like prefixes, suffixes, and stems (e.g., "dis-," "lik-," "ed" in "disliked").
