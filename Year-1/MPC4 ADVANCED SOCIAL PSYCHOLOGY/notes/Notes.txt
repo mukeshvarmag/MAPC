@@ -1,0 +1,76 @@
+Block 1 unit 1 
+The Beginning of Experimental Research
+Middle Range Theories
+Historical Developments: Summary Table
+
+Block 1 unit 2
+
+**Attribution Theory in Education – Notes**
+
+---
+
+**1. Definition & Importance**
+- Attribution theory (Weiner) explains how people interpret causes of success/failure.
+- Strongly influences academic motivation and self-perception.
+
+**2. Three Dimensions of Attribution**
+- **Internal vs. External:** Cause originates within the person (e.g., effort, ability) or environment (e.g., luck, task difficulty).
+- **Stable vs. Unstable:** Cause is consistent over time (e.g., ability) or can change (e.g., effort, luck).
+- **Controllable vs. Uncontrollable:** Person can influence the cause (e.g., effort) or cannot (e.g., innate ability, luck).
+
+**3. Key Factors**
+- **Ability:** Internal, stable, uncontrollable.
+- **Task Difficulty:** External, stable, uncontrollable.
+- **Effort:** Internal, unstable, controllable.
+- **Luck:** External, unstable, uncontrollable.
+
+**4. Impact on Motivation**
+- Students are most motivated when they attribute success to effort (internal, unstable, controllable) and failure to lack of effort.
+- Attributing success only to ability can reduce motivation to try harder.
+- Repeated failure despite effort can harm motivation and self-concept.
+
+**5. Guidelines for Teachers**
+- Encourage students to see effort as the path to success.
+- Help students attribute failures to factors they can control (e.g., effort, strategy).
+- Avoid making students believe lack of ability is the reason for failure.
+- Define effort as effective learning, not just time spent.
+- Avoid excessive competition; ensure effort leads to success.
+- Evaluate students partly on effort, but ensure effort leads to real achievement.
+- Foster an internal locus of control—students should believe their actions matter.
+
+**6. Changing Negative Self-Attributions**
+- Students convinced of low ability may dismiss successes as luck.
+- Changing such beliefs requires time and support to alter self-concept.
+
+**7. Practical Application**
+- Teachers can use attribution retraining and reinforce effort-based attributions to boost motivation and productivity.
+
+**Additional Concepts Related to Attribution Theory – Notes**
+
+---
+
+**1. Learning Goals vs. Performance Goals**
+- **Learning goals:** Focus on increasing competence; encourage seeking challenges and increased effort after failure.
+- **Performance goals:** Focus on gaining approval or avoiding disapproval; lead to challenge avoidance and negative reactions to failure (e.g., learned helplessness, self-handicapping).
+- Encouraging learning goals is more beneficial for motivation and resilience.
+
+**2. Learned Helplessness**
+- Expectation that one’s actions cannot lead to success, often due to repeated failure.
+- More common with performance goals and ability attributions.
+- Leads to reduced motivation and effort.
+
+**3. Self-Handicapping**
+- Creating obstacles to success (e.g., not practicing, substance use) to protect self-esteem.
+- If failure occurs, blame is placed on the obstacle; if success, it is seen as overcoming adversity.
+- Reduces actual learning and performance.
+- Can be influenced by peer culture or school environment.
+
+**4. Expectancy-Valence Models**
+- Motivation depends on the value of the goal (valence) and the perceived likelihood of success (expectancy).
+- Highest motivation often occurs with moderate probability of success.
+- Interacts with attribution theory: beliefs about causes of success/failure affect expectancy and effort.
+
+**5. Practical Implications**
+- Teachers should emphasize learning goals, effort attributions, and self-efficacy.
+- Avoid overemphasizing performance goals and normative comparisons.
+- Address cultural and peer influences that may encourage self-handicapping.
